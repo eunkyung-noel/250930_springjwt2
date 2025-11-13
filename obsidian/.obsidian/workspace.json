@@ -1,0 +1,216 @@
+{
+  "main": {
+    "id": "ad8078de4444f0b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "1935dc6d93588bff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2812f48df8ea144e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "acce3d1370cf1800",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ad6f4114324f840",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bfc3dfe06acdde38",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "eab1c2c4498c8359",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#setup",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "5ad5ba35324ad416",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "132b7912ebf0ce20",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a7a6c6fda0548c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7aeb037dd056ae9c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "환영합니다!.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "환영합니다! 의 백링크"
+            }
+          },
+          {
+            "id": "ca1a149a03ea2187",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "환영합니다!.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "환영합니다! 의 나가는 링크"
+            }
+          },
+          {
+            "id": "b756bbb9aa1a5b84",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "0af1a4b0b4d22e37",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "환영합니다!.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "환영합니다! 의 개요"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "2812f48df8ea144e",
+  "lastOpenFiles": [
+    "05_web/01_html.md",
+    "05_web/무제.md",
+    "04_database/05_JDBC/00_JDBC_개요_및_핵심_구성요소.md",
+    "04_database/05_JDBC/01_JDBC_프로그래밍_흐름과_DAO_DTO_패턴.md",
+    "05_web",
+    "04_database/05_JDBC",
+    "04_database/04_JOIN, 서브쿼리/03_실전_SQL_예제.md",
+    "04_database/04_JOIN, 서브쿼리/02_서브쿼리.md",
+    "04_database/04_JOIN, 서브쿼리/01_JOIN_과_정규화.md",
+    "04_database/04_JOIN, 서브쿼리/00_트랜잭션_및_데이터_무결성.md",
+    "04_database/04_JOIN, 서브쿼리",
+    "04_database/03_DQL, DML, DDL.md",
+    "04_database/03_DQL, DML, DDL/03_DDL_데이터_정의.md",
+    "04_database/03_DQL, DML, DDL/02_DML_데이터_조작.md",
+    "04_database/03_DQL, DML, DDL/01_DQL_기본_SELECT.md",
+    "04_database/03_DQL, DML, DDL/00_SQL_명령어_분류_및_연습_환경_구축.md",
+    "04_database/03_DQL, DML, DDL",
+    "04_database/02_ERD/02_구현_시나리오_및_SQL_DDL.md",
+    "04_database/02_ERD/01_티켓_예매_시스템_ERD_설계.md",
+    "04_database/02_ERD/00_ERD_개요_및_작성_도구.md",
+    "04_database/02_ERD",
+    "04_database/01_DB 실습 환경 세팅/04_SQL_기본_및_역사.md",
+    "04_database/01_DB 실습 환경 세팅/03_DBaaS와_RDBMS_심화.md",
+    "04_database/01_DB 실습 환경 세팅/02_DB_클라이언트_및_Java_연동.md",
+    "04_database/01_DB 실습 환경 세팅/01_로컬_설치_및_클라우드_DB.md",
+    "04_database/01_DB 실습 환경 세팅/00_SQL_엔진_개요_및_비교.md",
+    "04_database/01_DB 실습 환경 세팅",
+    "04_database/02_ERD.md",
+    "04_database/01_DB 실습 환경 세팅.md",
+    "04_database/05_JDBC.md",
+    "04_database/04_JOIN, 서브쿼리.md",
+    "03_java+advanced/01_함수형+프로그래밍/00_개요_및_참고.md",
+    "04_database",
+    "03_java+advanced/05_Servlet+JSP",
+    "03_java+advanced/04_의존성",
+    "03_java+advanced/03_Java17",
+    "01_onboarding/02_git+github/GUIDE/02-02.png",
+    "01_onboarding/02_git+github/GUIDE/03-01.png",
+    "03-01.png",
+    "01_onboarding/02_git+github/GUIDE/02-01.png",
+    "01_onboarding/02_git+github/GUIDE/03-10.png",
+    "01_onboarding/02_git+github/GUIDE/03-09.png",
+    "01_onboarding/02_git+github/GUIDE/03-08.png",
+    "01_onboarding/02_git+github/GUIDE/03-07.png",
+    "01_onboarding/02_git+github/GUIDE/03-06.png",
+    "01_onboarding/02_git+github/GUIDE/03-06.png"
+  ]
+}
